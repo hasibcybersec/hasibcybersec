@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Hasib Hossain — Cybersecurity Specialist | Ethical Hacker | Web Developer" width="100%" />
+  <img src="./assets/banner.svg" alt="Hasib Hossain — Cybersecurity Specialist | Ethical Hacker | Web Developer" width="100%" />
 </p>
 
 <p align="center">
@@ -101,24 +101,7 @@
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hasibcybersec/" target="_blank">
-    <img src="./assets/icons/social-linkedin.svg" width="42" height="42" alt="LinkedIn" title="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="https://x.com/hasibcybersec" target="_blank">
-    <img src="./assets/icons/social-x.svg" width="42" height="42" alt="X (Twitter)" title="X (Twitter)" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/hasibcybersec" target="_blank">
-    <img src="./assets/icons/social-facebook.svg" width="42" height="42" alt="Facebook" title="Facebook" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/hasibcybersec/" target="_blank">
-    <img src="./assets/icons/social-instagram.svg" width="42" height="42" alt="Instagram" title="Instagram" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:hasib.cyber.etarnity@gmail.com">
-    <img src="./assets/icons/social-gmail.svg" width="42" height="42" alt="Email" title="hasib.cyber.etarnity@gmail.com" />
-  </a>&nbsp;&nbsp;
-  <a href="https://hasibcybersec.xyz" target="_blank">
-    <img src="./assets/icons/social-website.svg" width="42" height="42" alt="Website" title="hasibcybersec.xyz" />
-  </a>
+  <a href="https://www.linkedin.com/in/hasibcybersec/" target="_blank"><img src="./assets/icons/social-linkedin.svg" width="42" height="42" alt="LinkedIn" title="LinkedIn" /></a>&nbsp;&nbsp;<a href="https://x.com/hasibcybersec" target="_blank"><img src="./assets/icons/social-x.svg" width="42" height="42" alt="X (Twitter)" title="X (Twitter)" /></a>&nbsp;&nbsp;<a href="https://www.facebook.com/hasibcybersec" target="_blank"><img src="./assets/icons/social-facebook.svg" width="42" height="42" alt="Facebook" title="Facebook" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/hasibcybersec/" target="_blank"><img src="./assets/icons/social-instagram.svg" width="42" height="42" alt="Instagram" title="Instagram" /></a>&nbsp;&nbsp;<a href="mailto:hasib.cyber.etarnity@gmail.com"><img src="./assets/icons/social-gmail.svg" width="42" height="42" alt="Email" title="hasib.cyber.etarnity@gmail.com" /></a>&nbsp;&nbsp;<a href="https://hasibcybersec.xyz" target="_blank"><img src="./assets/icons/social-website.svg" width="42" height="42" alt="Website" title="hasibcybersec.xyz" /></a>
 </p>
 
 <br/>
