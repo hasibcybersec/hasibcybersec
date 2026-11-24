@@ -10,7 +10,7 @@
 
 ### 📌 About Me
 
-- Hi, I'm **Hasib Hossain** — a **Cybersecurity Specialist, Ethical Hacker, and Web Security Specialist** at **Etarnity Global Innovation** (Khulna, Bangladesh). I specialize in **web application penetration testing, OWASP Top 10 vulnerability assessment, SSL/TLS & API security auditing**, and hardening **scalable web infrastructure**. I focus on uncovering security flaws before attackers do and securing modern web ecosystems from code to deployment.
+- Hi, I'm **Hasib Hossain** — a **Cybersecurity & Web Security Specialist** and **Ethical Hacker** at **Etarnity Global Innovation** (Khulna, Bangladesh). I specialize in **web application penetration testing, OWASP Top 10 vulnerability assessment, SSL/TLS & API security auditing**, and **Kali Linux** reconnaissance & exploitation—alongside **Python & Bash** security automation and hardening **secure full-stack web systems** (PHP, JavaScript/TypeScript, React, Next.js, Node.js, Docker, Cloudflare). I focus on uncovering vulnerabilities before attackers do and building resilient digital infrastructure from code to deployment.
 
 ---
 
